@@ -1,0 +1,181 @@
+canonical_identifier: bkk:krp/KR6c0079/v1
+canonical_location: https://kanripo.org/bkk/KR6c0079/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛經疏記科會
+  identifiers:
+    alt_id:
+    - X25n0491
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X25/X25n0491.xml
+    old_id: X25n0491
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0079_000.yaml, hash: 'sha256:fe7df7b09be49501ae2e03441d93a8511e79500275ea66aec1a467ce0ad7da6e'}
+  - {seq: 1, filename: KR6c0079_001.yaml, hash: 'sha256:35164203392292cbcc22cbac51d4e85476aa4921f6d1fff1a6d295a984620030'}
+  - {seq: 2, filename: KR6c0079_002.yaml, hash: 'sha256:0b3bbea26dde455bcf7f1b581715c201fade4e60c8763a55b78f2bf91fd46db6'}
+  - {seq: 3, filename: KR6c0079_003.yaml, hash: 'sha256:15b19ac0162b9df024a38820e898d0d16e74122bd2a4bb6151e075ab12ee4e98'}
+  - {seq: 4, filename: KR6c0079_004.yaml, hash: 'sha256:69007faae8a349734eebc92aa37cfcf364e4b072b4dfa12db35c5c27a5673a92'}
+  - {seq: 5, filename: KR6c0079_005.yaml, hash: 'sha256:4dd36fba62228d36228389606138d63aaa76fac61140b92c23c1ee829c5cfcb0'}
+  - {seq: 6, filename: KR6c0079_006.yaml, hash: 'sha256:a526f3002eb50eba28c914cb605557baefd5ca3218f505f9591053204e787f24'}
+  - {seq: 7, filename: KR6c0079_007.yaml, hash: 'sha256:26bbeae901496be0c65ae25c87e27c74efe377894d04057ad5ccb68a87e3b636'}
+  - {seq: 8, filename: KR6c0079_008.yaml, hash: 'sha256:80f7661884082c078d68b4343f7919d6e22d128593ba7600c9a252fea190b333'}
+  - {seq: 9, filename: KR6c0079_009.yaml, hash: 'sha256:c823c6243725f3c8a700f5e052d9ef792b7e6296c568ced37dccb1b546aac274'}
+  - {seq: 10, filename: KR6c0079_010.yaml, hash: 'sha256:8e31e79306c02339f6657bf2d3039a940cf3d95511589086756f8543764c9d27'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0079_000.markers.yaml, hash: 'sha256:62708578a954571982818294fdbc3f26fb592c35115e7d9b7da428d886363076'}
+  - {seq: 1, role: markers, filename: assets/KR6c0079_001.markers.yaml, hash: 'sha256:36b24385bbd7d4e2945278ab901cfe8d532ee77489e51b672a44a9b128c4707f'}
+  - {seq: 2, role: markers, filename: assets/KR6c0079_002.markers.yaml, hash: 'sha256:da78efe7ba1703031fea99ce041a458e12a7f7d13dbf019663a1dece3f855fe3'}
+  - {seq: 3, role: markers, filename: assets/KR6c0079_003.markers.yaml, hash: 'sha256:2851c4773daa9b5628ab432f3de81ce775b4c146746415fd6f00f98d4e7af06d'}
+  - {seq: 4, role: markers, filename: assets/KR6c0079_004.markers.yaml, hash: 'sha256:5a0cd5b6a4e5372620f3eae099395ad2c397beac7b2b4150feb203aed3830d96'}
+  - {seq: 5, role: markers, filename: assets/KR6c0079_005.markers.yaml, hash: 'sha256:0a70b4c31d835c1b25f33b99de4d96cadb98b5c52e0d8ba128d1f2bf069f4911'}
+  - {seq: 6, role: markers, filename: assets/KR6c0079_006.markers.yaml, hash: 'sha256:76054bf65d5322a0b662217fb2e48f1e791f7d02e3d089c7cdbdcb52ef27a3ae'}
+  - {seq: 7, role: markers, filename: assets/KR6c0079_007.markers.yaml, hash: 'sha256:f47997f0d606da50d3e491c5118ba4a1e150c7dd9c6308b929739d40ceeccb8f'}
+  - {seq: 8, role: markers, filename: assets/KR6c0079_008.markers.yaml, hash: 'sha256:9effe7a32e59ea2c9572019572c4d5b36547c2ea3bb6715bca083ce14caade39'}
+  - {seq: 9, role: markers, filename: assets/KR6c0079_009.markers.yaml, hash: 'sha256:32b9ad8bb9164d792ba3a39604c97f0478091b52ac66c1b6881d7e93199888e6'}
+  - {seq: 10, role: markers, filename: assets/KR6c0079_010.markers.yaml, hash: 'sha256:4574999439d6b2b1c9f04196b483c698ef5544800953172226b6c67d56c25ed8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0079_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 491-A
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0079_X_000-mulu-2
+    span:
+    - front
+    - 198
+    - 198
+  label: No. 491-B
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0079_X_000-mulu-3
+    span:
+    - front
+    - 679
+    - 679
+  label: 金剛經疏記科會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0079_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 22236
+  label: 金剛經疏記科會卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0079_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 15862
+  label: 金剛經疏記科會卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0079_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 9289
+  label: 金剛經疏記科會卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0079_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 10026
+  label: 金剛經疏記科會卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0079_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 11081
+  label: 金剛經疏記科會卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0079_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 13074
+  label: 金剛經疏記科會卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0079_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 8487
+  label: 金剛經疏記科會卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0079_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 9784
+  label: 金剛經疏記科會卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6c0079_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 8932
+  label: 金剛經疏記科會卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6c0079_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 10540
+  label: 金剛經疏記科會卷第十
+  type: juan
+  level: 1
+hash: sha256:fe2772beabfff918c74e16c5cfc8d31dded1c69b8c32d4188a81740e6044958e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
