@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0079_000-X.yaml, hash: 'sha256:350c6aeefecb3a59ee0c657d1a5b9561034ccb68356ec1e74d277d488a175f3f'}
+  - {seq: 0, filename: KR6c0079_000-X.yaml, hash: 'sha256:2684feba7cbb5e91d6438c58d0693da8f5298b2abcc136b78eb47a73a4132c1b'}
   - {seq: 1, filename: KR6c0079_001-X.yaml, hash: 'sha256:decdac103adc1f16c60d3a704fee915e843bc55c9a3dd555fc5aff290d312730'}
   - {seq: 2, filename: KR6c0079_002-X.yaml, hash: 'sha256:833a021a8f39107a0640edcfce15869c2ab592d45c4a0c6b6625887232dd28a8'}
   - {seq: 3, filename: KR6c0079_003-X.yaml, hash: 'sha256:2b00615f41c91e86f92994986119990dcb74e91e7e25ed06706ad4dad190fb36'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6c0079_009-X.yaml, hash: 'sha256:4a35f39af6fbf7d1a6a9ca1999ca4a4e17e6d856d14271ab80c9fac36c4e79ba'}
   - {seq: 10, filename: KR6c0079_010-X.yaml, hash: 'sha256:2bb88c5782321bc64059d8a2f9474a482579f88c6f203c2e07872682c77ccca2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0079_000-X.markers.yaml, hash: 'sha256:52f97af50567a7f1066ac662d732aed1d0bd3df171114e199b8a79f021d72223'}
+  - {seq: 0, role: markers, filename: assets/KR6c0079_000-X.markers.yaml, hash: 'sha256:b3fff0abb3aee8c62fa63feb2762094ab6dd82e4a7faa89a929a8152b737cd68'}
   - {seq: 1, role: markers, filename: assets/KR6c0079_001-X.markers.yaml, hash: 'sha256:bae1ee3e9ecd78a3bba01918c94c43dce20f3226f474c4a8ebb72badfad3b57b'}
   - {seq: 2, role: markers, filename: assets/KR6c0079_002-X.markers.yaml, hash: 'sha256:067dd6c328828a6c3130986b67285304b295e738a1edf94f95ddbabe2072f1eb'}
   - {seq: 3, role: markers, filename: assets/KR6c0079_003-X.markers.yaml, hash: 'sha256:5b7e47c00ad911c84fd1cc675274da4fc7dbea52bc377a1316d2397bfbb01e9b'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0079_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 491-A
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0079_X_000-mulu-2
     span:
-    - front
+    - body
     - 198
     - 198
   label: No. 491-B
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0079_X_000-mulu-3
     span:
-    - front
+    - body
     - 679
     - 679
   label: 金剛經疏記科會
@@ -173,4 +173,4 @@ table_of_contents:
   label: 金剛經疏記科會卷第十
   type: juan
   level: 1
-hash: sha256:0e8756ec77ed3e15bd24ff5d1a773d6e1eb8ddf06e2df7c0de083f9e45d4cc5e
+hash: sha256:c252c12ce55a502b9f77cbbadff06f8417d84cd79d744073748f2593ebaaefd1
